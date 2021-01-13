@@ -1,12 +1,12 @@
 # Graduation-Program
-A. Topic title: Photo cleaning system
-B. team members:
-4A, Cheng Jiabei 410619465
-Information Engineering 4A, Lin Xinhui 410615788
-Information Engineering 4A 410637235 Zhang Jinling
-C. Instructor name: Luo Junqi
-D. Results Report: Photo Cleaning System _ Thematic Results Report. PDF
-E. Program: photo cleaning system system related programs. Zip
-F. Presentation: Special presentations PPT.PPTX
-G. Poster: photo cleaning system poster. JPG
-H. introduce the movie: https://youtu.be/cd7dfgI_2wE
+A. Topic title: Photo cleaning system<br />
+B. team members:<br />
+Cheng Jiabei 410619465<br />
+Lin Xinhui 410615788<br />
+Zhang Jinling 410637235<br />
+C. Instructor name: Luo Junqi<br />
+D. Results Report: PhotoCleaningSystem_ProjectResultsReport.PDF<br />
+E. Program:SystemRelatedPrograms.Zip<br />
+F. Presentation:PresentationsPPT.PPTX<br />
+G. Poster: PhotoCleaningSystem_Poster.JPG<br />
+H. introduce the movie: https://youtu.be/cd7dfgI_2wE<br />
